@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+a 4-bit serial-in parallel-out shift register with output enable (no double buffering)
 
 ## How to test
 
-Explain how to use your project
+provide input and clock, set output-enable high to see anything
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+4 LEDs on the outputs for example
